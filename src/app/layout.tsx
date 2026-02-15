@@ -5,7 +5,7 @@ import { Providers } from "@/components/providers";
 import { Toaster } from "@/components/ui/sonner";
 
 import "./globals.css";
-import { Authenticated } from "convex/react";
+import "allotment/dist/style.css";
 
 const inter = Inter({
   variable: "--font-inter",
